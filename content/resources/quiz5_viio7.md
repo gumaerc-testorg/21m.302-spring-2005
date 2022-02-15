@@ -2,8 +2,13 @@
 content_type: resource
 description: This file contains the questions to test students understanding on the
   course material.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-302-harmony-and-counterpoint-ii-spring-2005/765d540bcc109ccf3b61862be927d994_quiz5_viio7.pdf
+file: /media/courses/21m-302-harmony-and-counterpoint-ii-spring-2005/765d540bcc109ccf3b61862be927d994_quiz5_viio7.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: quiz5_viio7.pdf
 uid: 765d540b-cc10-9ccf-3b61-862be927d994

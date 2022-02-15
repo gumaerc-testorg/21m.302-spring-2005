@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: e93a26dc-ad2e-4d2b-9576-75d214ce5077
 ---
@@ -16,7 +18,7 @@ Keyboard Laboratory: 1 session / week, 1 hour / session
 Course Description
 ------------------
 
-In this subject, we explore the harmonic, melodic, and formal practices of western music, principally the so-called "Classical" idiom of central Europe, ca. 1750-1825. Topics include a quick review of material covered in [21M.301](/courses/21m-301-harmony-and-counterpoint-i-spring-2005), chromatic harmony (viio7, bII6, and chords of the augmented sixth), and chromatic modulation; lecture study and discussion are complemented by work in the keyboard laboratory and sight-singing laboratory. All areas of study will be integrated in a semester-long project of composing a theme and two variations in Classical style.
+In this subject, we explore the harmonic, melodic, and formal practices of western music, principally the so-called "Classical" idiom of central Europe, ca. 1750-1825. Topics include a quick review of material covered in [21M.301](/courses/21m-301-harmony-and-counterpoint-i-spring-2005), chromatic harmony (vii{{< sup "o7" >}}, bII{{< sup "6" >}}, and chords of the augmented sixth), and chromatic modulation; lecture study and discussion are complemented by work in the keyboard laboratory and sight-singing laboratory. All areas of study will be integrated in a semester-long project of composing a theme and two variations in Classical style.
 
 Subject Components
 ------------------
@@ -49,7 +51,7 @@ You will present two or three brief oral reports to the class, lasting about 10 
 
 ### Tests
 
-Two class sessions are reserved for midterm tests: one on voice-leading and diatonic harmony (i.e., material covered in 21M.301), and one on elementary chromatic harmony (viio7, bII6, and chords of the augmented sixth) and modulation. Each test will last one hour.
+Two class sessions are reserved for midterm tests: one on voice-leading and diatonic harmony (i.e., material covered in 21M.301), and one on elementary chromatic harmony (vii{{< sup "o7" >}}, bII{{< sup "6" >}}, and chords of the augmented sixth) and modulation. Each test will last one hour.
 
 ### Final Project
 
