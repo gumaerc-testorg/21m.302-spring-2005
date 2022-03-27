@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: f8849459-dc28-9a4f-ccb7-1a284268ebe9
 resourcetype: Document
 title: overofelechrharm.pdf
 uid: 7ed29de4-b4bf-5b28-f449-b041f83e83b9

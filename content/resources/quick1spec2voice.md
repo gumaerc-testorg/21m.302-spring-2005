@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: f8849459-dc28-9a4f-ccb7-1a284268ebe9
 resourcetype: Document
 title: quick1spec2voice.pdf
 uid: 0f3cc6a4-f193-47e4-6cc3-a6d941308c05

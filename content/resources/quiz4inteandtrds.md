@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: e16aef63-5e10-01f2-7cd5-e3eacb1a5d07
 resourcetype: Document
 title: quiz4inteandtrds.pdf
 uid: bf97dfaf-102b-fa40-0f4f-25a23adfce8a

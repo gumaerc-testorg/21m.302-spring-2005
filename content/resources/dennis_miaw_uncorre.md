@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c7f12460-2215-9303-8cbf-97c1a3546c5c
 resourcetype: Document
 title: dennis_miaw_uncorre.pdf
 uid: 49cf5d49-f4d6-79f8-301f-581d44c9f0f7

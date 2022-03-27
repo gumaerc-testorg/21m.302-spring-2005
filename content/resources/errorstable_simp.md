@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 89112b14-79cb-6169-981d-e65f3a2585ae
 resourcetype: Document
 title: errorstable_simp.pdf
 uid: f5b9244d-e6c7-ecc8-88a5-f306ab319c4f

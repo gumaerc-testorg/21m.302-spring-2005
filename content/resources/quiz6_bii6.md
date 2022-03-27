@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: e16aef63-5e10-01f2-7cd5-e3eacb1a5d07
 resourcetype: Document
 title: quiz6_bII6.pdf
 uid: 9c5faf81-2147-c943-f1c8-d4e9fb0cdaba

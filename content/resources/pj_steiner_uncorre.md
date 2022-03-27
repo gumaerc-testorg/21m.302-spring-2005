@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c7f12460-2215-9303-8cbf-97c1a3546c5c
 resourcetype: Document
 title: pj_steiner_uncorre.pdf
 uid: 28bd7933-8f98-eb7d-050c-99d3270ab8e2

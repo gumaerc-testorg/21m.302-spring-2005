@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c7f12460-2215-9303-8cbf-97c1a3546c5c
 resourcetype: Document
 title: john_lee_uncorre.pdf
 uid: 31bb99db-a7df-6d89-362a-82f231bbc0a5

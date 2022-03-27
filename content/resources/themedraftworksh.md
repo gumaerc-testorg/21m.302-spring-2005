@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: f8849459-dc28-9a4f-ccb7-1a284268ebe9
 resourcetype: Document
 title: themedraftworksh.pdf
 uid: 3e05af2b-a0a3-b1b1-b482-4ebee434b94c

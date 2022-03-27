@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: f8849459-dc28-9a4f-ccb7-1a284268ebe9
 resourcetype: Document
 title: quick1spec4voinc.pdf
 uid: bfc3d5d2-ba18-f281-0cf3-cb13d6ce620d

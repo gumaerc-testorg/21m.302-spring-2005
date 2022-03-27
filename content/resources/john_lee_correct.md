@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c7f12460-2215-9303-8cbf-97c1a3546c5c
 resourcetype: Document
 title: john_lee_correct.pdf
 uid: 948a0e82-4aa0-9d29-b4f9-b1aa7e6bd51b
