@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains list of readings associated with the course material.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: cc1f34be-a06d-8223-8f72-70494aa3e271
 ---
@@ -472,9 +476,9 @@ Workshop Discussion of Theme Drafts
 
 Introduction to the Flat Supertonic (Neapolitan)
 
-Assignment 8 (viio7 and applied viio7)
+Assignment 8 (vii{{< sup "o7" >}} and applied vii{{< sup "o7" >}})
 
-Quiz 5 (viio7 in all Keys)
+Quiz 5 (vii{{< sup "o7" >}} in all Keys)
 
 
 {{< tdclose >}}
@@ -532,7 +536,7 @@ Introduction to Mode Mixture
 
 Assignment 9 (Flat Supertonic and Chords of the Augmented Sixth)
 
-Quiz 6 (ii6, iio6, and bII6 , in all Keys)
+Quiz 6 (ii{{< sup "6" >}}, ii{{< sup "o6" >}}, and bII{{< sup "6" >}} , in all Keys)
 
 
 {{< tdclose >}}
@@ -586,7 +590,7 @@ Workshop Discussion of Variations Featuring Melodic Figuration
 
 Assignment 10 (Mode Mixture)
 
-Quiz 7 (vi, \[b\]VI, and Chords of the Augmented Sixth, in all Keys)
+Quiz 7 (vi, {{< sup "\\[b\\]" >}}VI, and Chords of the Augmented Sixth, in all Keys)
 
 
 {{< tdclose >}}
