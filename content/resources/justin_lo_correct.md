@@ -5,6 +5,7 @@ file: /courses/21m-302-harmony-and-counterpoint-ii-spring-2005/5e0d956f914c25e14
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: justin_lo_correct.pdf
 uid: 5e0d956f-914c-25e1-455f-b760d2cb8ec7
 ---
 This resource includes corrected versions of the musical rhythms.
-

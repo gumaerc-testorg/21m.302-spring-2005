@@ -5,6 +5,7 @@ file: /courses/21m-302-harmony-and-counterpoint-ii-spring-2005/7c3b91aafa60027d1
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: laura_burton_uncorre.pdf
 uid: 7c3b91aa-fa60-027d-13cf-eb856ca7549d
 ---
 This resource includes uncorrected versions of the musical rhythms.
-

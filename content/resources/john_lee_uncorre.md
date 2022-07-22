@@ -5,6 +5,7 @@ file: /courses/21m-302-harmony-and-counterpoint-ii-spring-2005/31bb99dba7df6d893
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: john_lee_uncorre.pdf
 uid: 31bb99db-a7df-6d89-362a-82f231bbc0a5
 ---
 This resource includes uncorrected versions of the musical rhythms.
-

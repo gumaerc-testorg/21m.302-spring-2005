@@ -5,6 +5,7 @@ file: /courses/21m-302-harmony-and-counterpoint-ii-spring-2005/5b63f3afbbb483724
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: quiz5.pdf
 uid: 5b63f3af-bbb4-8372-4e73-682ba8e23cc7
 ---
 This resource contains a timed quiz.
-

@@ -5,6 +5,7 @@ file: /courses/21m-302-harmony-and-counterpoint-ii-spring-2005/2d9b8a0d516efe58e
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: test2beeth.pdf
 uid: 2d9b8a0d-516e-fe58-e0f7-ad2e64bbaa3c
 ---
 This resource contains question to test student understanding.
-

@@ -5,6 +5,7 @@ file: /courses/21m-302-harmony-and-counterpoint-ii-spring-2005/82e9a17b8482c513a
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pracquizintetrds.pdf
 uid: 82e9a17b-8482-c513-a9d2-6ba1c769928d
 ---
 This file contains the questions for practice quiz for intervals.
-

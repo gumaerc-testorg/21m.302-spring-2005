@@ -5,6 +5,7 @@ file: /courses/21m-302-harmony-and-counterpoint-ii-spring-2005/f6b13f690ee3b7f06
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: joy_ebertz_correct.pdf
 uid: f6b13f69-0ee3-b7f0-6764-b0e5c7521287
 ---
 This resource includes corrected versions of the musical rhythms.
-

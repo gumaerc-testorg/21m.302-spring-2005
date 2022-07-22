@@ -6,6 +6,7 @@ file: /courses/21m-302-harmony-and-counterpoint-ii-spring-2005/c08dbba9ce9b50274
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: quiz1.pdf
 uid: c08dbba9-ce9b-5027-409e-c6795de7e157
 ---
 This file contains the questions for the topic: Scales, intervals, and triads.
-
