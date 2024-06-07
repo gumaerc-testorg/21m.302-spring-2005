@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes corrected versions of the musical rhythms.
 file: /courses/21m-302-harmony-and-counterpoint-ii-spring-2005/f6b13f690ee3b7f06764b0e5c7521287_joy_ebertz_correct.pdf
+file_size: 282010
 file_type: application/pdf
 learning_resource_types:
 - Projects

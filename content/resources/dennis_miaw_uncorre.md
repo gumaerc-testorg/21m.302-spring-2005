@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes uncorrected versions of the musical rhythms.
 file: /courses/21m-302-harmony-and-counterpoint-ii-spring-2005/49cf5d49f4d679f8301f581d44c9f0f7_dennis_miaw_uncorre.pdf
+file_size: 219134
 file_type: application/pdf
 learning_resource_types:
 - Projects
