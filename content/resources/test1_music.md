@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains questions to test students understanding on the
   course material.
 file: /courses/21m-302-harmony-and-counterpoint-ii-spring-2005/229838fc40237b38f987ca88c4c2b102_test1_music.pdf
+file_size: 105703
 file_type: application/pdf
 learning_resource_types:
 - Exams

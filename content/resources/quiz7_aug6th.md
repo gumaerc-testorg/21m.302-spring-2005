@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the questions.
 file: /courses/21m-302-harmony-and-counterpoint-ii-spring-2005/456debf454adcb36e85b89a51da42a9c_quiz7_aug6th.pdf
+file_size: 55332
 file_type: application/pdf
 learning_resource_types:
 - Exams
