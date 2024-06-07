@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains 2 problems to test students understanding.
 file: /courses/21m-302-harmony-and-counterpoint-ii-spring-2005/6a6dc3336ed384e9cde4c8c38acfa386_assignmentno3.pdf
+file_size: 55818
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -3,6 +3,7 @@ content_type: resource
 description: 'This file contains the questions for the topic: Scales, intervals, and
   triads.'
 file: /courses/21m-302-harmony-and-counterpoint-ii-spring-2005/60057f3dcc8363d59bbdcb23db3ac8dc_quiz3.pdf
+file_size: 82795
 file_type: application/pdf
 learning_resource_types:
 - Exams

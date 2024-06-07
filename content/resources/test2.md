@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains a timed test.
 file: /courses/21m-302-harmony-and-counterpoint-ii-spring-2005/1d26a54512a60b24f5b42466b58a8a73_test2.pdf
+file_size: 136043
 file_type: application/pdf
 learning_resource_types:
 - Exams
