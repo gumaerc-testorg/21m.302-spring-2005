@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the a list of common errors and abbreviations.
-file: /courses/21m-302-harmony-and-counterpoint-ii-spring-2005/f5b9244de6c7ecc888a5f306ab319c4f_errorstable_simp.pdf
+file: /ol-ocw-studio-app/courses/21m-302-harmony-and-counterpoint-ii-spring-2005/f5b9244de6c7ecc888a5f306ab319c4f_errorstable_simp.pdf
 file_size: 40997
 file_type: application/pdf
 learning_resource_types:

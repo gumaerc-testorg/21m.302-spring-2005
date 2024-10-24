@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource gives an overview of elementary chromatic harmony.
-file: /courses/21m-302-harmony-and-counterpoint-ii-spring-2005/7ed29de4b4bf5b28f449b041f83e83b9_overofelechrharm.pdf
+file: /ol-ocw-studio-app/courses/21m-302-harmony-and-counterpoint-ii-spring-2005/7ed29de4b4bf5b28f449b041f83e83b9_overofelechrharm.pdf
 file_size: 35459
 file_type: application/pdf
 learning_resource_types: []
