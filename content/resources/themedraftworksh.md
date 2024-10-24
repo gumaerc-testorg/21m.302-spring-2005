@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a musical note.
-file: /courses/21m-302-harmony-and-counterpoint-ii-spring-2005/3e05af2ba0a3b1b1b4824ebee434b94c_themedraftworksh.pdf
+file: /ol-ocw-studio-app/courses/21m-302-harmony-and-counterpoint-ii-spring-2005/3e05af2ba0a3b1b1b4824ebee434b94c_themedraftworksh.pdf
 file_size: 56311
 file_type: application/pdf
 learning_resource_types: []
