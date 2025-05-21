@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the questions for intervals and triads.
-file: /ol-ocw-studio-app/courses/21m-302-harmony-and-counterpoint-ii-spring-2005/bf97dfaf102bfa400f4f25a23adfce8a_quiz4inteandtrds.pdf
+file: /courses/21m-302-harmony-and-counterpoint-ii-spring-2005/bf97dfaf102bfa400f4f25a23adfce8a_quiz4inteandtrds.pdf
 file_size: 59722
 file_type: application/pdf
 learning_resource_types:

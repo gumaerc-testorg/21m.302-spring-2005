@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the questions.
-file: /ol-ocw-studio-app/courses/21m-302-harmony-and-counterpoint-ii-spring-2005/9c5faf812147c943f1c8d4e9fb0cdaba_quiz6_bII6.pdf
+file: /courses/21m-302-harmony-and-counterpoint-ii-spring-2005/9c5faf812147c943f1c8d4e9fb0cdaba_quiz6_bII6.pdf
 file_size: 58959
 file_type: application/pdf
 learning_resource_types:
