@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains question on bass realization.
-file: /ol-ocw-studio-app/courses/21m-302-harmony-and-counterpoint-ii-spring-2005/b3cc9a7478e820c5a11fd57da80cf372_test2bass.pdf
+file: /courses/21m-302-harmony-and-counterpoint-ii-spring-2005/b3cc9a7478e820c5a11fd57da80cf372_test2bass.pdf
 file_size: 71237
 file_type: application/pdf
 learning_resource_types:
