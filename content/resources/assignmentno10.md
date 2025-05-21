@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains 4 problems to test students understanding.
-file: /ol-ocw-studio-app/courses/21m-302-harmony-and-counterpoint-ii-spring-2005/f4b8d344f28b84f2d7c650926cffe4bc_assignmentno10.pdf
+file: /courses/21m-302-harmony-and-counterpoint-ii-spring-2005/f4b8d344f28b84f2d7c650926cffe4bc_assignmentno10.pdf
 file_size: 76658
 file_type: application/pdf
 learning_resource_types:

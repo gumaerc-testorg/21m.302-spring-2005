@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes corrected versions of the musical rhythms.
-file: /ol-ocw-studio-app/courses/21m-302-harmony-and-counterpoint-ii-spring-2005/86b9ce2b0571027e5596ef9e82e8231a_dennis_miaw_correct.pdf
+file: /courses/21m-302-harmony-and-counterpoint-ii-spring-2005/86b9ce2b0571027e5596ef9e82e8231a_dennis_miaw_correct.pdf
 file_size: 251544
 file_type: application/pdf
 learning_resource_types:

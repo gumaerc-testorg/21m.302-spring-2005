@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes uncorrected versions of the musical rhythms.
-file: /ol-ocw-studio-app/courses/21m-302-harmony-and-counterpoint-ii-spring-2005/7dbcad94eb2c7f28c3a686e468e7b5bf_joy_ebertz_uncorre.pdf
+file: /courses/21m-302-harmony-and-counterpoint-ii-spring-2005/7dbcad94eb2c7f28c3a686e468e7b5bf_joy_ebertz_uncorre.pdf
 file_size: 262728
 file_type: application/pdf
 learning_resource_types:

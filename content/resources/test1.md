@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a timed test.
-file: /ol-ocw-studio-app/courses/21m-302-harmony-and-counterpoint-ii-spring-2005/4c8d04a55ad65251bfc54393110fea97_test1.pdf
+file: /courses/21m-302-harmony-and-counterpoint-ii-spring-2005/4c8d04a55ad65251bfc54393110fea97_test1.pdf
 file_size: 148968
 file_type: application/pdf
 learning_resource_types:
