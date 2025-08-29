@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the questions to test students understanding on the
   course material.
-file: /courses/21m-302-harmony-and-counterpoint-ii-spring-2005/765d540bcc109ccf3b61862be927d994_quiz5_viio7.pdf
+file: /ol-ocw-studio-app/courses/21m-302-harmony-and-counterpoint-ii-spring-2005/765d540bcc109ccf3b61862be927d994_quiz5_viio7.pdf
 file_size: 53444
 file_type: application/pdf
 learning_resource_types:
