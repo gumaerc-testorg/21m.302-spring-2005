@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the notes for horizontal and vertical successions.
-file: /courses/21m-302-harmony-and-counterpoint-ii-spring-2005/0f3cc6a4f19347e46cc3a6d941308c05_quick1spec2voice.pdf
+file: /ol-ocw-studio-app/courses/21m-302-harmony-and-counterpoint-ii-spring-2005/0f3cc6a4f19347e46cc3a6d941308c05_quick1spec2voice.pdf
 file_size: 51930
 file_type: application/pdf
 learning_resource_types: []
